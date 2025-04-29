@@ -1,0 +1,1 @@
+edge_list.csv: stores each edge in DyTAG as a tuple. i.e., (u, r, i, ts, label). u is the id of the source entity, i is the id of the target entity, r is the id of the relation between them, ts is the occurring timestamp of this edge, label is the label of this edge.
