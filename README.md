@@ -3,8 +3,11 @@
 # Requirements and Installation
 
 python>=3.9
+
 pytorch>=1.9.1
+
 transformers>=4.24.0
+
 torch_geometric>=1.7.2
 
 # Datasets and Preprocessing
